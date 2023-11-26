@@ -1,4 +1,38 @@
-# Getting Started with Create React App
+<h1 align="center" id="title">SkyVue</h1>
+
+<p id="description">SkyVue is a web application built with React.js designed to provide users with real-time weather information for any city in the world. With an intuitive interface and vibrant visuals SkyVue allows users to explore and stay updated on current weather conditions forecasts and more making it the go-to tool for weather enthusiasts and everyday users alike.</p>
+
+<h2>🚀 Demo</h2>
+
+[https://sky-vue-sigma.vercel.app/](https://sky-vue-sigma.vercel.app/)
+
+<h2>Project Screenshots:</h2>
+
+<img src="https://i.postimg.cc/bJZ7y6Rp/Screenshot-113.png" alt="project-screenshot" width="400" height="400/">
+
+  
+  
+<h2>🧐 Features</h2>
+
+Here're some of the project's best features:
+
+*   City-Based Weather Information :- Enter the name of any city and SkyVue fetches and displays current weather data for that location.
+*   Visual Representation :- SkyVue includes visually appealing icons and images to represent current weather conditions enhancing the user experience.
+*   Responsive Design :- Enjoy a seamless experience on various devices from desktops to mobile phones.
+*   API Integration :- SkyVue is powered by an API that delivers real-time weather data ensuring up-to-the-minute information.
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   React JS
+*   Tailwind CSS
+*   Javascript
+*   API Integration
+
+# Installation Steps
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
